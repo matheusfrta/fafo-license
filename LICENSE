@@ -1,0 +1,39 @@
+===============================================================================
+                   FAFO PUBLIC LICENSE (v1.0)
+               (Fuck Around And Find Out License)
+
+         Official Repo: https://github.com/matheusfrta/fafo-license
+===============================================================================
+
+Copyright (c) 2026 matheusfrta
+
+0. DO WHATEVER THE FUCK YOU WANT
+   Copy it, steal it, monetize it, rewrite it, or distribute it.
+   Nobody gives a single flying fuck what you do with this codebase, 
+   subject to the strict rules in Section 1.
+
+1. SPECIAL PROHIBITIONS & CLAUSES
+   - DO NOT shove this license and/or its source code up your ass (physically, 
+     metaphorically, or digitally).
+   - You CANNOT remove or strip this license from this repository... you dumbass.
+   - IF YOU ARE IBM (or any of its subsidiaries, partners, or corporate minions): 
+     YOU ARE STRICTLY FORBIDDEN FROM USING, RUNNING, COPYING, READING, OR LOOKING AT 
+     ANYTHING PROTECTED BY THIS LICENSE. GET OUT.
+
+2. DON'T COME CRYING TO ME
+   If you deploy this shit to production and it completely blows up your 
+   servers, wipes your database, leaks your API keys, or ruins your startup:
+
+   YOU FUCKED AROUND, AND NOW YOU FOUND OUT.
+
+   Do not open bitchy GitHub issues. Do not email the maintainers. Do not 
+   tag anyone on Twitter. Fix your own fucking code or hire someone who 
+   actually knows how to program.
+
+3. NO WARRANTY WHATSOEVER
+   THIS CODE IS PROVIDED "AS IS", WITHOUT ANY GUARANTEES OR WARRANTIES. 
+
+   IF IT WORKS: CONGRATS, YOU GOT LUCKY.
+   IF IT BREAKS: SHIT HAPPENS. DEAL WITH IT.
+
+===============================================================================
